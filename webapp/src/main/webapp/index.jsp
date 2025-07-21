@@ -13,7 +13,9 @@
     <input type="text" placeholder="Enter SurName" name="surname" id="surname" required>
     <br>
 
-
+    <label for="nickname"><b>Friend NickName</b></label>
+    <input type="text" placeholder="Enter NickName" name="nickname" id="nickname" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
