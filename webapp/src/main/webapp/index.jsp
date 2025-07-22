@@ -17,6 +17,11 @@
     <input type="text" placeholder="Enter NickName" name="nickname" id="nickname" required>
     <br>
 
+    <label for="Phonenumber"><b>Phone Number</b></label>
+    <input type="text" placeholder="Enter phonenumber" name="phonenumber" id="phonenumber" required>
+    <br>
+
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
