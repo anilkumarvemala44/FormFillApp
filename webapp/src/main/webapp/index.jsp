@@ -21,6 +21,10 @@
     <input type="text" placeholder="Enter phonenumber" name="phonenumber" id="phonenumber" required>
     <br>
 
+    <label for="Instagramid "><b>Instagram Id</b></label>
+    <input type="text" placeholder="Enter instagramid" name="instagram" id="instagram" required>
+    <br>
+
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
